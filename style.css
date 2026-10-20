@@ -102,7 +102,7 @@ body {
   font-style: italic;
 }
 
-/* Waveform Section — positioned above staff */
+/* Waveform Section вЂ” positioned above staff */
 .waveform-section {
   position: absolute;
   top: 65px;
@@ -234,7 +234,7 @@ body {
   background: linear-gradient(180deg, #ece8e0, #e0dcd4);
 }
 
-/* Knobs Section — vertical */
+/* Knobs Section вЂ” vertical */
 .knobs-section {
   display: flex;
   flex-direction: column;
